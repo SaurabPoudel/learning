@@ -97,7 +97,7 @@ A running log of things I'm learning to build strong core software engineering s
 
 | Resource                                                                                                                                           | Progress |
 | -------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| [Datacamp: Foundations of Probability in Python](https://www.datacamp.com/courses/foundations-of-probability-in-python)                            |          |
+| [Datacamp: Foundations of Probability in Python](https://www.datacamp.com/courses/foundations-of-probability-in-python)                            | ✅       |
 | [Datacamp: Introduction to Statistics](https://www.datacamp.com/courses/introduction-to-statistics)                                                |          |
 | [Datacamp: Introduction to Statistics in Python](https://www.datacamp.com/courses/introduction-to-statistics-in-python)                            |          |
 | [Datacamp: Hypothesis Testing in Python](https://www.datacamp.com/courses/hypothesis-testing-in-python)                                            |          |
